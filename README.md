@@ -1,6 +1,4 @@
 # EXP : 2b - IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## NAME : S MOHAMED AHSAN
-## REG NO : 212223240089
 ## AIM :
 To write a python program to perform sliding window protocoL
 ## ALGORITHM :
